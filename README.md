@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KingWise69
-- 👀 I’m interested in things IT and Anime
+- 👀 I’m interested in things IT
 - 🌱 I’m currently learning BSIT
 - 💞️ I’m looking to collaborate on Anything...
 - 📫 How to reach me ???
