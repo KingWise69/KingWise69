@@ -6,10 +6,11 @@ About Me 🌟
 💻 Skilled in HTML, HTML5, CSS, JavaScript, Node.js, Express.js, and basics in Python.
 🌐 Check out my LinkedIn for professional connections.
 Connect with Me 🤝
-GitHub: KingWise69 (https://github.com/KingWise69/KingWise69/)
-Instagram: joshua_wise123 (https://www.instagram.com/joshua_wise123/)
-Twitter: MageziJoshua8 (https://twitter.com/MageziJoshua8)
-LinkdeIn : https://www.linkedin.com/in/magezi-joshua-wisdom-9aaa2226a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+ [Pitch Deck](https://www.canva.com/design/DAF1jF2Rx-E/uEvyCftKZpOn0QHq46MaJw/edit?utm_content=DAF1jF2Rx-E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[GitHub](https://github.com/KingWise69/KingWise69/)
+[Instagram](https://www.instagram.com/joshua_wise123/)
+[Twitter](https://twitter.com/MageziJoshua8)
+[LinkdeIn](https://www.linkedin.com/in/magezi-joshua-wisdom-9aaa2226a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 My Projects 🚀
 🌟 Portfolio Website
 
